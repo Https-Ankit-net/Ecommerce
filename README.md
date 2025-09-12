@@ -26,7 +26,7 @@ Admins can manage products, users, and orders from an admin dashboard.
 ---
 
 ## 🛠 Tech Stack
-- *Frontend:* JSP, JSTL, HTML, CSS (basic styling)
+- *Frontend:* JSP, JSTL, HTML
 - *Backend:* Java Servlets
 - *Database:* MySQL 8+
 - *Server:* Apache Tomcat 8.5 / 9
